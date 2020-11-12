@@ -2,6 +2,4 @@
 第一次更改添加字符
 Git-stage
 Git tracks changes of files.
-ccc
-aaa
-stupid boss do ..
+stupid boss do...
